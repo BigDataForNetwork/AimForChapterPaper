@@ -4,8 +4,10 @@ Privacy Preserving Semantic Context Analytics for Mobile New Services Creation
 
 Extended Abstract 
 
-Yuh-Jong Hu 
+Yuh-Jong Hu
+
 Dept. of Computer Science
+
 National Chengchi University, Taipei, Taiwan
 
 email: hu@cs.nccu.edu.tw
