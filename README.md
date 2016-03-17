@@ -1,10 +1,13 @@
 # AimForChapterPaper
 A book chapter of big data for network
 Privacy Preserving Semantic Context Analytics for Mobile New Services Creation
+
 Extended Abstract 
+
 Yuh-Jong Hu 
 Dept. of Computer Science
 National Chengchi University, Taipei, Taiwan
+
 email: hu@cs.nccu.edu.tw
 
 Keywords: semantic context analytics, RDF(S), privacy protection, Linked Open Data,
